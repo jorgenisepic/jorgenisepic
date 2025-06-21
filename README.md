@@ -23,7 +23,7 @@ A *interactive* Python toolkit for learning nuclear engineering
 
 ##  Links
 
--  [My Website / Blog](#) *(coming soon)*  
+-  [My Website / Blog](https://carrd.co/dashboard/5379175050854874/build) *(heavy WIP)*  
 -  [Notebook Project](https://github.com/jorgenisepic/nuclear-notes2)  
 -  [Learning Log](#) *(in progress)*
 
