@@ -1,6 +1,5 @@
 # Hi, I'm Jorgen Olesen 👋
 
-[![School](https://img.shields.io/badge/School-SMA%20Pangudi%20Luhur%20Jakarta-blueviolet)](https://pangudiluhur.sch.id)
 [![Role](https://img.shields.io/badge/Role-10th%20Grade%20Student-informational)]()
 [![Focus](https://img.shields.io/badge/Studying-Nuclear%20Engineering-yellow)]()
 [![Platform](https://img.shields.io/badge/Built%20With-Visual%20Studio%20Code-007ACC?logo=visual-studio-code)](https://code.visualstudio.com/)
